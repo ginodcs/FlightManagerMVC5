@@ -1,0 +1,6 @@
+@{
+    string twoLettersCulture = new System.Globalization.CultureInfo(Culture).TwoLetterISOLanguageName;
+}
+<div style="height:505px;">
+    <li>@Html.ActionLink(@Resources.FlightResource.Flight, "Index", "Flight", new { lang = @twoLettersCulture }, new { })</li>
+</div>    

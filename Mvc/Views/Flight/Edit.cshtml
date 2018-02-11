@@ -1,0 +1,34 @@
+﻿@model EditFlightViewModel
+
+@{
+    ViewBag.Title = Resources.Shared.AppName + " - " + string.Format(Resources.Shared.EditViewTitle, Model.Description);
+}
+
+<h2>@string.Format(Resources.Shared.EditViewTitle, Model.Description)</h2>
+
+<div class="form-commands-container">
+    <button class="btn btn-default btn-sm back-button" title="@Resources.Shared.Back"><span class="glyphicon glyphicon-arrow-left"></span>@Resources.Shared.Back</button>
+    <button class="btn  btn-default btn-sm save-button" title="@Resources.Shared.Save"><span class="glyphicon glyphicon-ok"></span>@Resources.Shared.Save</button>
+</div>
+
+<div class="entity-form-container">
+    @using (Html.BeginForm("Edit", "Flight", FormMethod.Post, new { id = "FlightForm", enctype = "multipart/form-data", role = "form", @class = "form-horizontal" }))
+    {
+        @Html.ValidationSummary(true)
+        @Html.Partial("_FlightEditor", Model)
+    }
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    <script type="text/javascript">
+        $(function () {
+            formUtils.setupFormControls("FlightForm");
+            formUtils.setupFormActionButtons({
+                formId: "FlightForm",
+                indexPageUrl: "@Url.Action("Index")",
+                buttonsContainerSelector: ".form-commands-container"
+            });
+        });
+    </script>
+}

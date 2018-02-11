@@ -1,0 +1,33 @@
+﻿@using System.Security.Claims
+@{
+    string culture = new System.Globalization.CultureInfo(Culture).TwoLetterISOLanguageName;
+    var identity = User.Identity as ClaimsIdentity;
+    string fullName = User.Identity.Name;
+    string date = System.DateTime.Today.ToShortDateString();
+    if (identity != null)
+    {
+        var nameClaim = identity.Claims.FirstOrDefault(c => c.Type == ClaimTypes.Name);
+        if (nameClaim != null)
+        {
+            fullName = nameClaim.Value;
+        }
+    }
+}
+@if(Request.IsAuthenticated) 
+{
+    <div style="margin-left:3px;">
+    <span><text>@fullName | @date</text> @using (Html.BeginForm("LogOff", "Account", FormMethod.Post, new {id = "logoutForm", style="display: inline;"}))
+    {
+        @Html.AntiForgeryToken()
+        @: | <a href="javascript:document.getElementById('logoutForm').submit()">@Resources.Shared.LogOff</a>
+    }</span>
+    </div>
+    
+    
+}
+else 
+{
+    <div style="margin-left:118px;">
+    @Html.ActionLink(@Resources.Shared.Login, "Login", "Account", new { lang = @culture }, new { })
+     </div>
+}

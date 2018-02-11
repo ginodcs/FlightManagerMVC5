@@ -1,0 +1,1042 @@
+ERROR 2015-05-18 10:39:46,864 11510ms FileLogger             Index              - log Error
+INFO  2015-05-18 11:09:38,397 10610ms FileLogger             writeFile          - log Debug
+INFO  2015-05-18 11:09:39,281 11494ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-05-18 11:09:58,874 31087ms FileLogger             writeFile          - log Debug
+INFO  2015-05-18 11:09:59,089 31302ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-05-18 11:12:00,536 152749ms FileLogger             writeFile          - log Debug
+INFO  2015-05-18 11:12:14,799 167012ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-05-18 11:14:57,474 14541ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-05-18 11:16:39,408 13316ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-05-18 11:17:32,852 66760ms FileLogger             writeFile          - Iniciando borrado de usuario
+INFO  2015-05-18 11:17:34,210 68118ms FileLogger             writeFile          - Usuario borrado
+INFO  2015-05-18 11:17:35,896 69804ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-05-18 11:20:39,234 253143ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-05-18 11:21:19,912 293820ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-05-18 11:21:36,748 310656ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-05-18 11:23:34,456 37139ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-05-18 11:24:33,524 96206ms FileLogger             writeFile          - Iniciando borrado de usuario
+INFO  2015-05-18 11:24:34,772 97454ms FileLogger             writeFile          - Usuario borrado
+INFO  2015-05-18 11:24:35,845 98527ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-05-18 11:25:38,485 161167ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-05-18 11:27:21,667 33976ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-05-18 11:27:46,876 59185ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-05-18 11:27:50,964 63273ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-05-18 11:27:54,300 66609ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-05-18 11:28:16,431 88740ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-05-18 11:29:22,831 155140ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-05-18 11:29:26,951 159260ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-05-18 11:29:29,346 161655ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-05-18 11:29:38,487 170796ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-05-18 11:31:51,560 12704ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-05-18 11:32:11,833 32977ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-05-18 11:32:41,037 62181ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-05-28 12:11:13,147 101332ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 09:47:03,953 27895ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 09:47:18,252 42194ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 09:50:16,930 26099ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 09:50:25,467 34636ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 10:16:00,724 41101ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 10:19:31,193 251570ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 10:23:16,221 476598ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 10:24:48,476 568853ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 10:26:22,456 662832ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 10:26:31,803 672180ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 10:26:35,248 675625ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 10:29:45,348 865725ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 10:33:41,916 1102293ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 10:34:01,744 1122121ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 10:37:45,939 1346316ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 10:37:51,370 1351747ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 10:38:57,559 1417936ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 11:00:31,819 17593ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 11:00:47,725 33498ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 11:01:57,276 103049ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 11:02:03,186 108960ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 11:02:08,482 114256ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 11:02:14,814 120587ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 11:02:18,806 124580ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 11:02:29,268 135041ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 11:04:35,315 20163ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 12:07:32,764 10651ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 12:07:47,775 25662ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 12:20:16,966 11230ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 12:22:47,505 10594ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 12:23:16,348 39437ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 12:35:24,722 13855ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 12:38:01,910 12351ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 12:38:09,447 19888ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 12:38:19,463 29904ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 12:38:25,823 36264ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 12:50:38,492 10883ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 12:50:50,678 23070ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 12:50:55,326 27717ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 13:34:05,328 13837ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 14:57:34,226 107857ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 15:01:14,483 328113ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 15:09:45,375 12134ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 15:11:26,778 18896ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 15:40:44,454 11038ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 15:41:31,882 11135ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 15:46:14,375 11246ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 15:50:56,745 17834ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 15:54:30,630 11584ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 15:57:58,794 10775ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 17:35:01,603 15742ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 17:36:14,232 88372ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 17:46:01,876 27376ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 17:46:59,589 85089ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 17:47:55,052 140553ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 17:50:28,673 294173ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 17:52:31,013 416513ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 17:56:57,215 682716ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 17:58:23,155 768655ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 18:05:25,753 1191254ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 18:05:52,061 1217561ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 18:11:57,554 1583054ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 18:13:01,213 1646714ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 18:23:25,761 12494ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 18:24:26,707 73441ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 18:24:34,245 80978ms FileLogger             writeFile          - Iniciando borrado de usuario
+INFO  2015-06-03 18:24:34,577 81310ms FileLogger             writeFile          - Usuario borrado
+INFO  2015-06-03 18:24:36,443 83176ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 18:28:09,991 296724ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 18:30:43,475 13786ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 18:31:13,323 43634ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 18:31:33,519 63830ms FileLogger             writeFile          - Iniciando borrado de usuario
+INFO  2015-06-03 18:31:33,539 63850ms FileLogger             writeFile          - Usuario borrado
+INFO  2015-06-03 18:31:35,585 65896ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 18:34:10,094 220405ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 18:35:01,618 271929ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 18:35:20,257 290568ms FileLogger             writeFile          - Iniciando borrado de usuario
+INFO  2015-06-03 18:35:23,983 294294ms FileLogger             writeFile          - Usuario borrado
+INFO  2015-06-03 18:35:33,367 303678ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 18:37:33,658 423970ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 18:39:59,194 569505ms FileLogger             writeFile          - Iniciando borrado de usuario
+INFO  2015-06-03 18:46:13,935 944247ms FileLogger             writeFile          - Usuario borrado
+INFO  2015-06-03 18:46:15,827 946139ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 18:47:40,197 14514ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-03 18:48:16,794 51111ms FileLogger             writeFile          - Cargando datos de usuario
+INFO  2015-06-04 16:57:00,289 23066ms FileLogger             writeFile          - [UI]-Cargando Listados de usuario
+INFO  2015-06-04 17:27:55,544 16522ms FileLogger             writeFile          - [UI]-Cargando Listados de usuario
+INFO  2015-06-04 17:53:22,358 34240ms FileLogger             writeFile          - [UI/]-Cargando Listados de usuario
+INFO  2015-06-04 17:53:49,370 61253ms FileLogger             writeFile          - [UI/UsuarioService]-Usuario encontrado
+INFO  2015-06-04 17:53:55,296 67178ms FileLogger             writeFile          - [UI/UsuarioService]-Usuario encontrado
+INFO  2015-06-04 18:07:07,733 23000ms FileLogger             writeFile          - [UI/]-Cargando Listados de usuario
+INFO  2015-06-04 18:07:35,725 50991ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-04 18:07:39,615 54882ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-04 18:07:45,062 60329ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-04 18:07:49,615 64882ms FileLogger             writeFile          - [UI/]-Cargando Listados de usuario
+INFO  2015-06-04 18:08:44,079 119345ms FileLogger             writeFile          - [UI/]-[UI]-Iniciando borrado de usuario
+INFO  2015-06-04 18:08:44,696 119962ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario borrado
+INFO  2015-06-04 18:08:45,240 120506ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario borrado por identificador
+INFO  2015-06-04 18:08:45,767 121033ms FileLogger             writeFile          - [UI/]-Usuario borrado
+INFO  2015-06-04 18:08:51,230 126497ms FileLogger             writeFile          - [UI/]-Cargando Listados de usuario
+INFO  2015-06-17 08:35:09,472 59389475ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-17 11:17:18,080 18297ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-17 11:21:43,612 283829ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-17 11:21:51,801 292017ms FileLogger             writeFile          - [UI/]-Interfaz de creación
+INFO  2015-06-17 11:22:23,285 323501ms FileLogger             writeFile          - [UI/]-Erro al validar los datos de interfaz
+INFO  2015-06-17 11:22:40,862 341078ms FileLogger             writeFile          - [UI/]-Validacion correcta de datos de interfaz
+INFO  2015-06-17 11:22:42,738 342954ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-06-17 11:22:43,445 343661ms FileLogger             writeFile          - [Server/UsuarioService]-Error al buscar un Usuario
+INFO  2015-06-17 11:22:46,046 346262ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-06-17 11:22:46,749 346965ms FileLogger             writeFile          - [Server/UsuarioService]-Error al buscar un Usuario
+INFO  2015-06-17 11:22:58,382 358598ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-17 11:23:13,142 373358ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-17 11:24:37,880 458097ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-17 11:48:06,432 10775ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-17 11:49:29,301 93644ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-17 11:53:37,743 30915ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-17 11:59:06,122 10114ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-17 11:59:12,514 16506ms FileLogger             writeFile          - [UI/]-Generando informe
+INFO  2015-06-17 12:00:22,520 86512ms FileLogger             writeFile          - [UI/]-Generando informe
+INFO  2015-06-17 12:03:27,515  9777ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-17 12:03:33,360 15622ms FileLogger             writeFile          - [UI/]-Generando informe
+INFO  2015-06-17 12:08:46,340 65665ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-17 12:08:54,646 73972ms FileLogger             writeFile          - [UI/]-Generando informe
+INFO  2015-06-17 12:09:08,579 87905ms FileLogger             writeFile          - [UI/]-Generando informe
+INFO  2015-06-17 12:11:03,875  9266ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-17 12:11:11,658 17049ms FileLogger             writeFile          - [UI/]-Generando informe
+INFO  2015-06-17 12:16:03,825 17378ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-17 12:16:09,845 23399ms FileLogger             writeFile          - [UI/]-Generando informe
+INFO  2015-06-17 12:22:38,349 19049ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-17 12:22:44,789 25488ms FileLogger             writeFile          - [UI/]-Generando informe
+INFO  2015-06-17 12:24:11,396 13260ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-17 12:24:16,445 18310ms FileLogger             writeFile          - [UI/]-Generando informe
+INFO  2015-06-17 12:33:39,524 81938ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-17 12:33:46,034 88448ms FileLogger             writeFile          - [UI/]-Generando informe
+INFO  2015-06-17 12:33:51,604 94018ms FileLogger             writeFile          - [UI/]-Generando informe
+INFO  2015-06-17 12:38:53,054 12317ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-17 12:39:04,646 23909ms FileLogger             writeFile          - [UI/]-Generando informe
+INFO  2015-06-17 12:46:45,090 12411ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-17 12:46:51,616 18937ms FileLogger             writeFile          - [UI/]-Generando informe
+INFO  2015-06-17 12:46:56,290 23611ms FileLogger             writeFile          - [UI/]-Generando informe
+INFO  2015-06-17 12:47:55,283 82604ms FileLogger             writeFile          - [UI/]-Generando informe
+INFO  2015-06-18 10:11:20,325 77087646ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 11:40:39,326 4700014ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 11:43:24,962 4865651ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 11:44:39,308 4939997ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 11:45:20,202 4980890ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 11:51:41,322 5362011ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 11:56:34,307 5654996ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 12:01:10,767 5931456ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 12:02:14,240 5994928ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 12:03:10,181 6050870ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 12:08:27,066 6367755ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 12:09:36,586 6437275ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 12:12:18,540 6599229ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 12:52:04,815 523856ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 12:53:07,037 586079ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 12:56:06,053 765094ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 12:56:53,705 812747ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 12:59:13,338 952380ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 12:59:24,964 964006ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 13:00:52,697 1051739ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 13:01:30,511 1089553ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 13:03:11,702 1190744ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 13:04:26,213 1265255ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 13:05:36,563 1335605ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 13:06:06,202 1365244ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 13:09:36,214 1575256ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 13:10:42,902 1641943ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 13:10:51,540 1650582ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 13:13:51,053 1830095ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 13:16:07,212 1966254ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 14:41:17,937 7076978ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 14:41:58,482 7117524ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 14:46:11,844 7370886ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 15:02:34,978 8354019ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 15:07:37,452 8656494ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 15:08:27,252 8706293ms FileLogger             writeFile          - [UI/]-Interfaz de creación
+INFO  2015-06-18 15:08:39,271 8718313ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 15:08:50,406 8729448ms FileLogger             writeFile          - [UI/]-Interfaz de creación
+INFO  2015-06-18 15:10:50,261 8849303ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 15:13:09,583 8988625ms FileLogger             writeFile          - [UI/]-Interfaz de creación
+INFO  2015-06-18 15:16:14,148 9173190ms FileLogger             writeFile          - [UI/]-Interfaz de creación
+INFO  2015-06-18 15:16:14,306 9173348ms FileLogger             writeFile          - [UI/]-Interfaz de creación
+INFO  2015-06-18 15:16:46,769 9205811ms FileLogger             writeFile          - [UI/]-Interfaz de creación
+INFO  2015-06-18 15:16:46,936 9205978ms FileLogger             writeFile          - [UI/]-Interfaz de creación
+INFO  2015-06-18 15:17:12,641 9231683ms FileLogger             writeFile          - [UI/]-Interfaz de creación
+INFO  2015-06-18 15:17:12,902 9231944ms FileLogger             writeFile          - [UI/]-Interfaz de creación
+INFO  2015-06-18 15:18:10,710 9289752ms FileLogger             writeFile          - [UI/]-Interfaz de creación
+INFO  2015-06-18 15:18:10,929 9289971ms FileLogger             writeFile          - [UI/]-Interfaz de creación
+INFO  2015-06-18 15:22:38,485 9557527ms FileLogger             writeFile          - [UI/]-Interfaz de creación
+INFO  2015-06-18 15:22:38,686 9557728ms FileLogger             writeFile          - [UI/]-Interfaz de creación
+INFO  2015-06-18 15:24:10,437 9649478ms FileLogger             writeFile          - [UI/]-Interfaz de creación
+INFO  2015-06-18 15:24:10,609 9649650ms FileLogger             writeFile          - [UI/]-Interfaz de creación
+INFO  2015-06-18 15:24:34,250 9673292ms FileLogger             writeFile          - [UI/]-Interfaz de creación
+INFO  2015-06-18 15:24:34,471 9673513ms FileLogger             writeFile          - [UI/]-Interfaz de creación
+INFO  2015-06-18 15:25:54,917 9753958ms FileLogger             writeFile          - [UI/]-Interfaz de creación
+INFO  2015-06-18 15:25:55,046 9754087ms FileLogger             writeFile          - [UI/]-Interfaz de creación
+INFO  2015-06-18 17:14:08,758 16247800ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 17:14:47,664 16286706ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 17:16:45,367 16404409ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 17:16:48,098 16407140ms FileLogger             writeFile          - [UI/]-Interfaz de creación
+INFO  2015-06-18 17:17:11,896 16430938ms FileLogger             writeFile          - [UI/]-Validacion correcta de datos de interfaz
+INFO  2015-06-18 17:17:13,719 16432761ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-06-18 17:17:14,021 16433063ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-18 17:17:14,546 16433587ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-18 17:17:15,242 16434283ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-06-18 17:17:15,332 16434373ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-18 17:21:10,161 16669203ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-06-18 17:21:10,267 16669309ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-18 17:21:10,877 16669919ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-06-18 17:21:10,989 16670031ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-18 17:21:11,473 16670515ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-18 17:21:11,825 16670867ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-06-18 17:21:11,967 16671009ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-18 17:21:36,653 16695694ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-06-18 17:21:36,760 16695801ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-18 17:21:37,274 16696315ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-06-18 17:21:37,384 16696425ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-18 17:21:37,786 16696827ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-18 17:21:38,182 16697223ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-06-18 17:21:38,357 16697398ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-18 17:29:14,937 17153978ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 17:31:57,267 17316309ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 17:33:12,187 17391229ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 17:33:43,782 17422824ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 17:34:30,431 17469473ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 17:34:55,263 17494305ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 17:35:18,188 17517229ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 17:36:17,200 17576242ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 17:37:04,159 17623200ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 17:37:57,559 17676600ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 17:39:33,891 17772933ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 17:39:44,279 17783320ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 17:39:57,679 17796721ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 17:39:58,587 17797628ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 17:40:06,873 17805915ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 17:40:15,994 17815035ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 17:40:16,880 17815921ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 17:40:27,609 17826651ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 17:40:37,208 17836249ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 17:41:01,867 17860909ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 17:41:16,411 17875453ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 17:41:29,144 17888185ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 17:41:32,654 17891696ms FileLogger             writeFile          - [UI/]-Visualizando objeto
+INFO  2015-06-18 17:41:32,740 17891782ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-18 17:41:32,958 17892000ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-18 17:41:33,123 17892165ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-06-18 17:41:33,221 17892263ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-18 17:42:42,768 17961810ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-18 17:42:51,488 17970530ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 17:42:53,590 17972631ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-06-18 17:42:53,690 17972731ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-18 17:42:54,092 17973133ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-18 17:42:54,285 17973326ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-06-18 17:42:54,499 17973540ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-18 17:42:59,498 17978540ms FileLogger             writeFile          - [UI/]-Cargando datos asociados en popup
+INFO  2015-06-18 17:42:59,593 17978635ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-18 17:44:00,801 18039843ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-06-18 17:44:00,908 18039950ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-18 17:44:01,518 18040560ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-06-18 17:44:01,624 18040666ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-18 17:44:02,047 18041089ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-18 17:44:02,405 18041447ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-06-18 17:44:02,549 18041591ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-18 17:44:04,431 18043472ms FileLogger             writeFile          - [UI/]-Cargando datos asociados en popup
+INFO  2015-06-18 17:44:04,610 18043651ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-18 17:45:02,354 18101396ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-06-18 17:45:02,457 18101499ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-18 17:45:03,076 18102118ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-06-18 17:45:03,207 18102249ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-18 17:45:03,646 18102688ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-18 17:45:03,956 18102998ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-06-18 17:45:04,177 18103219ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-18 17:45:13,966 18113007ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-06-18 17:45:14,087 18113128ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-18 17:45:14,734 18113775ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-06-18 17:45:14,832 18113873ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-18 17:45:15,232 18114273ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-18 17:45:15,570 18114611ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-06-18 17:45:15,781 18114822ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-18 17:45:24,274 18123316ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 17:51:19,610 18478652ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 17:51:48,790 18507832ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-06-18 17:51:48,895 18507937ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-18 17:51:49,296 18508338ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-18 17:51:49,560 18508602ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-06-18 17:51:49,712 18508754ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-18 17:52:20,193 18539235ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 17:52:41,333 18560375ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 17:53:07,191 18586232ms FileLogger             writeFile          - [UI/]-Interfaz de creación
+INFO  2015-06-18 17:53:09,875 18588917ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 17:54:53,777 18692818ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 17:55:08,513 18707554ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-18 17:55:11,195 18710236ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-19 09:43:08,633 187645ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-19 09:43:12,232 191244ms FileLogger             writeFile          - [UI/]-Interfaz de creación
+INFO  2015-06-19 09:45:42,530 341543ms FileLogger             writeFile          - [UI/]-Interfaz de creación
+INFO  2015-06-19 09:45:43,157 342170ms FileLogger             writeFile          - [UI/]-Interfaz de creación
+INFO  2015-06-19 09:47:14,102 433114ms FileLogger             writeFile          - [UI/]-Interfaz de creación
+INFO  2015-06-19 09:47:14,290 433302ms FileLogger             writeFile          - [UI/]-Interfaz de creación
+INFO  2015-06-19 09:49:12,091 551104ms FileLogger             writeFile          - [UI/]-Interfaz de creación
+INFO  2015-06-19 09:49:12,285 551298ms FileLogger             writeFile          - [UI/]-Interfaz de creación
+INFO  2015-06-19 09:49:25,526 564539ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-19 09:50:26,048 625060ms FileLogger             writeFile          - [UI/]-Interfaz de creación
+INFO  2015-06-19 09:50:45,457 644469ms FileLogger             writeFile          - [UI/]-Interfaz de creación
+INFO  2015-06-19 09:50:45,594 644606ms FileLogger             writeFile          - [UI/]-Interfaz de creación
+INFO  2015-06-19 09:51:52,571 711583ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-19 09:51:53,730 712742ms FileLogger             writeFile          - [UI/]-Visualizando objeto
+INFO  2015-06-19 09:51:53,823 712835ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 09:51:53,988 713000ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 09:51:54,129 713141ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-06-19 09:51:54,198 713210ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 09:53:23,145 802157ms FileLogger             writeFile          - [UI/]-Visualizando objeto
+INFO  2015-06-19 09:53:23,205 802217ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 09:53:23,776 802788ms FileLogger             writeFile          - [UI/]-Visualizando objeto
+INFO  2015-06-19 09:53:23,833 802845ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 09:53:24,162 803174ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 09:53:24,347 803359ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-06-19 09:53:24,464 803476ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:03:07,349 1386362ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-19 10:04:01,979 1440992ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-19 10:05:25,385 1524398ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-06-19 10:05:25,529 1524542ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:05:26,115 1525128ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:05:26,363 1525376ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-06-19 10:05:26,510 1525523ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:08:37,808 1716821ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-06-19 10:08:37,880 1716893ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:08:38,473 1717486ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-06-19 10:08:38,546 1717559ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:08:38,885 1717898ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:08:39,112 1718125ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-06-19 10:08:39,230 1718243ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:10:59,852 1858865ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-06-19 10:10:59,911 1858924ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:11:00,005 1859018ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-06-19 10:11:00,070 1859083ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:11:00,458 1859471ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:11:00,670 1859683ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-06-19 10:11:00,782 1859795ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:11:13,047 1872060ms FileLogger             writeFile          - [UI/]-Cargando datos asociados en popup
+INFO  2015-06-19 10:11:13,155 1872168ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:11:33,650 1892663ms FileLogger             writeFile          - [UI/]-Cargando datos asociados en popup
+INFO  2015-06-19 10:11:33,782 1892795ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:11:34,162 1893175ms FileLogger             writeFile          - [UI/]-Cargando datos asociados en popup
+INFO  2015-06-19 10:11:34,297 1893310ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:15:15,392 2114404ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-06-19 10:15:15,505 2114517ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:15:16,050 2115062ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-06-19 10:15:16,112 2115124ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:15:16,476 2115488ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:15:16,653 2115666ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-06-19 10:15:16,804 2115817ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:24:53,390 2692402ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-06-19 10:24:53,486 2692499ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:24:55,070 2694083ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-06-19 10:24:55,136 2694149ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:24:55,520 2694533ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:24:55,813 2694826ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-06-19 10:24:55,981 2694994ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:26:13,799 2772812ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-06-19 10:26:13,868 2772881ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:26:14,444 2773457ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-06-19 10:26:14,516 2773529ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:26:14,942 2773955ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:26:15,127 2774140ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-06-19 10:26:15,277 2774289ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:27:24,218 2843231ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-06-19 10:27:24,308 2843321ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:27:24,894 2843907ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-06-19 10:27:24,957 2843970ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:27:25,325 2844337ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:27:25,485 2844497ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-06-19 10:27:25,616 2844628ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:32:32,686 3151699ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-06-19 10:32:32,751 3151764ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:32:33,323 3152336ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-06-19 10:32:33,386 3152399ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:32:33,783 3152796ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:32:34,046 3153059ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-06-19 10:32:34,152 3153165ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:33:21,533 3200546ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-06-19 10:33:21,634 3200647ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:33:22,202 3201215ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-06-19 10:33:22,269 3201282ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:33:22,610 3201623ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:33:22,875 3201888ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-06-19 10:33:23,068 3202081ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:34:14,613 3253626ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-06-19 10:34:14,648 3253661ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:34:16,269 3255282ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-06-19 10:34:16,275 3255288ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:34:16,699 3255712ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:34:16,906 3255919ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-06-19 10:34:16,921 3255934ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:37:50,506 3469519ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-06-19 10:37:50,510 3469523ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:37:51,089 3470102ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:37:51,281 3470294ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-06-19 10:37:51,288 3470301ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:38:32,552 3511564ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-06-19 10:38:32,560 3511572ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:38:32,804 3511816ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-06-19 10:38:32,817 3511829ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:38:33,093 3512105ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:38:33,266 3512278ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-06-19 10:38:33,271 3512283ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:41:03,295 3662308ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-06-19 10:41:03,307 3662320ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:41:03,458 3662471ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-06-19 10:41:03,463 3662476ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:41:03,772 3662785ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:41:03,975 3662988ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-06-19 10:41:03,980 3662993ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:42:00,272 3719284ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-06-19 10:42:00,282 3719294ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:42:00,624 3719636ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:42:00,881 3719893ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-06-19 10:42:00,886 3719898ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:44:39,105 3878117ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:45:26,218 3925231ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-06-19 10:45:26,225 3925238ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:45:26,376 3925389ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-06-19 10:45:26,396 3925409ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:45:26,672 3925685ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:45:26,885 3925898ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-06-19 10:45:26,909 3925922ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:45:57,329 3956342ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-06-19 10:45:57,336 3956349ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:45:57,549 3956562ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-06-19 10:45:57,563 3956576ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:45:57,596 3956609ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:45:57,811 3956824ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:45:58,011 3957024ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-06-19 10:45:58,020 3957033ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:46:06,549 3965561ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-19 10:46:23,387 3982399ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-19 10:46:26,358 3985370ms FileLogger             writeFile          - [UI/]-Visualizando objeto
+INFO  2015-06-19 10:46:26,378 3985390ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:46:26,602 3985614ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:46:26,757 3985769ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-06-19 10:46:26,764 3985776ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:47:34,031 4053043ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-19 10:47:36,907 4055919ms FileLogger             writeFile          - [UI/]-Visualizando objeto
+INFO  2015-06-19 10:47:36,915 4055927ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:47:37,140 4056152ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:47:37,257 4056270ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-06-19 10:47:37,268 4056281ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:50:36,555 4235568ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-19 10:50:38,720 4237733ms FileLogger             writeFile          - [UI/]-Visualizando objeto
+INFO  2015-06-19 10:50:38,725 4237738ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:50:38,984 4237997ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:50:39,162 4238175ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-06-19 10:50:39,177 4238190ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:51:35,056 4294069ms FileLogger             writeFile          - [UI/]-Visualizando objeto
+INFO  2015-06-19 10:51:35,062 4294075ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:51:35,238 4294251ms FileLogger             writeFile          - [UI/]-Visualizando objeto
+INFO  2015-06-19 10:51:35,296 4294309ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:51:35,364 4294377ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:51:35,575 4294588ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:51:35,706 4294719ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-06-19 10:51:35,711 4294724ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:51:50,525 4309538ms FileLogger             writeFile          - [UI/]-Visualizando objeto
+INFO  2015-06-19 10:51:50,535 4309548ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:51:50,732 4309745ms FileLogger             writeFile          - [UI/]-Visualizando objeto
+INFO  2015-06-19 10:51:50,772 4309785ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:51:51,057 4310070ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:51:51,193 4310206ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-06-19 10:51:51,207 4310220ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:51:51,289 4310302ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:52:20,366 4339379ms FileLogger             writeFile          - [UI/]-Visualizando objeto
+INFO  2015-06-19 10:52:20,370 4339383ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:52:20,583 4339596ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:52:20,753 4339766ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-06-19 10:52:20,759 4339772ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:52:21,100 4340113ms FileLogger             writeFile          - [UI/]-Visualizando objeto
+INFO  2015-06-19 10:52:21,110 4340123ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:52:21,401 4340414ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:52:21,535 4340548ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-06-19 10:52:21,542 4340555ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:54:24,221 4463234ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-19 10:56:09,334 4568347ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-06-19 10:56:09,341 4568354ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:56:09,742 4568755ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:56:09,932 4568945ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-06-19 10:56:09,937 4568950ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:59:22,093 4761106ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-19 10:59:26,100 4765113ms FileLogger             writeFile          - [UI/]-Visualizando objeto
+INFO  2015-06-19 10:59:26,105 4765118ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:59:26,211 4765224ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:59:26,330 4765343ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-06-19 10:59:26,343 4765356ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:59:51,071 4790083ms FileLogger             writeFile          - [UI/]-Visualizando objeto
+INFO  2015-06-19 10:59:51,076 4790088ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:59:51,206 4790218ms FileLogger             writeFile          - [UI/]-Visualizando objeto
+INFO  2015-06-19 10:59:51,224 4790236ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:59:51,425 4790437ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 10:59:51,525 4790538ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-06-19 10:59:51,533 4790546ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 11:01:21,241 4880254ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-19 11:01:22,893 4881906ms FileLogger             writeFile          - [UI/]-Visualizando objeto
+INFO  2015-06-19 11:01:22,900 4881913ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 11:01:22,966 4881979ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 11:01:23,084 4882097ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-06-19 11:01:23,091 4882104ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 11:01:29,203 4888216ms FileLogger             writeFile          - [UI/]-Visualizando objeto
+INFO  2015-06-19 11:01:29,207 4888220ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 11:01:29,757 4888770ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 11:01:31,367 4890379ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-06-19 11:01:31,372 4890384ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 11:01:59,014 4918027ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-19 11:02:00,746 4919759ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-06-19 11:02:00,755 4919768ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 11:02:00,940 4919953ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 11:02:01,331 4920344ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-06-19 11:02:01,335 4920348ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 11:03:40,734 5019747ms FileLogger             writeFile          - [UI/]-Visualizando objeto
+INFO  2015-06-19 11:03:40,742 5019755ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 11:03:40,958 5019971ms FileLogger             writeFile          - [UI/]-Visualizando objeto
+INFO  2015-06-19 11:03:40,968 5019981ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 11:03:41,054 5020067ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 11:03:52,296 5031308ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-19 11:03:54,075 5033087ms FileLogger             writeFile          - [UI/]-Visualizando objeto
+INFO  2015-06-19 11:03:54,160 5033172ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 11:03:54,284 5033296ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 11:03:54,471 5033483ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-06-19 11:03:54,581 5033593ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 11:05:02,650 5101662ms FileLogger             writeFile          - [UI/]-Visualizando objeto
+INFO  2015-06-19 11:05:02,739 5101751ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 11:05:04,318 5103330ms FileLogger             writeFile          - [UI/]-Visualizando objeto
+INFO  2015-06-19 11:05:04,420 5103432ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 11:05:04,837 5103849ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 11:05:05,035 5104047ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-06-19 11:05:05,173 5104185ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 12:05:02,985 53729ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-19 12:07:19,034 189778ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-19 12:07:35,448 206192ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-19 12:09:10,633 301377ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-19 12:10:08,665 359409ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-19 12:11:40,266 451010ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-19 12:12:06,581 477325ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-19 12:13:22,322 553066ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-19 12:15:21,528 672272ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-19 12:15:57,783 708527ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-19 12:17:35,894 806638ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-19 12:19:32,293 923037ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-19 12:24:22,622 1213366ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-06-19 12:24:22,818 1213562ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 12:24:25,118 1215862ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 12:24:25,774 1216518ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-06-19 12:24:25,905 1216649ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 12:25:39,829 1290573ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 12:26:15,624 1326368ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 12:28:40,201 1470945ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-06-19 12:28:40,272 1471016ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 12:28:41,398 1472142ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 12:28:42,065 1472809ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-06-19 12:28:42,172 1472916ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 12:29:32,260 1523004ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-19 12:30:03,420 1554164ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-06-19 12:30:03,565 1554309ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 12:30:04,106 1554850ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 12:30:04,382 1555126ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-06-19 12:30:04,506 1555250ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 12:31:28,221 1638965ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-06-19 12:31:28,299 1639043ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 12:31:28,883 1639627ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-06-19 12:31:28,969 1639713ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 12:31:29,486 1640230ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 12:31:29,683 1640427ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-06-19 12:31:29,819 1640563ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 12:31:56,293 1667037ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-06-19 12:31:56,540 1667284ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 12:31:56,943 1667687ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-06-19 12:31:57,008 1667752ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 12:31:57,618 1668362ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 12:31:58,015 1668759ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-06-19 12:31:58,142 1668886ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 12:32:33,601 1704345ms FileLogger             writeFile          - [UI/]-Editando objeto
+INFO  2015-06-19 12:32:33,671 1704415ms FileLogger             writeFile          - [UI/]-Validacion correcta de datos de interfaz
+INFO  2015-06-19 12:32:33,738 1704482ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 12:32:49,552 1720296ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-19 12:32:59,301 1730045ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-06-19 12:32:59,369 1730113ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 12:33:00,267 1731012ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-06-19 12:33:00,367 1731112ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 12:33:04,647 1735391ms FileLogger             writeFile          - [UI/]-Editando objeto
+INFO  2015-06-19 12:33:04,739 1735483ms FileLogger             writeFile          - [UI/]-Validacion correcta de datos de interfaz
+INFO  2015-06-19 12:33:04,808 1735552ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 12:33:05,484 1736228ms FileLogger             writeFile          - [UI/]-Editando objeto
+INFO  2015-06-19 12:33:05,544 1736288ms FileLogger             writeFile          - [UI/]-Validacion correcta de datos de interfaz
+INFO  2015-06-19 12:33:05,631 1736375ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 12:33:05,926 1736670ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-19 12:33:22,520 1753264ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-06-19 12:33:22,592 1753336ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 12:33:22,874 1753618ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-06-19 12:33:22,980 1753724ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 12:33:30,630 1761374ms FileLogger             writeFile          - [UI/]-Editando objeto
+INFO  2015-06-19 12:33:30,736 1761480ms FileLogger             writeFile          - [UI/]-Validacion correcta de datos de interfaz
+INFO  2015-06-19 12:33:30,803 1761547ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 12:33:31,010 1761754ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-19 13:19:01,768 22286ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-19 13:20:46,758 127276ms FileLogger             writeFile          - [UI/]-Visualizando objeto
+INFO  2015-06-19 13:20:46,851 127369ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 13:20:47,751 128269ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 13:20:47,886 128403ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-06-19 13:20:47,894 128411ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 13:20:49,658 130175ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-19 13:27:22,255 15270ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-19 14:09:37,852   510ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-06-19 14:09:41,238  3896ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 14:09:44,167  6825ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-19 14:09:45,982  8639ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-06-19 14:09:46,184  8841ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-22 08:41:09,029 15847ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 09:09:44,964 1731783ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 09:12:20,104 1886922ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 09:48:42,429 4069247ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 09:49:28,446 4115264ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 09:50:18,126 4164944ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 09:51:47,617 4254435ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 09:52:39,858 4306676ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 09:53:12,426 4339244ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 09:54:43,331 4430149ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 09:54:51,367 4438185ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 09:55:51,625 4498443ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 09:55:58,486 4505304ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 09:56:38,124 4544942ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 09:57:35,357 4602175ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 09:59:22,053 4708871ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 10:00:03,150 4749968ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 10:00:24,514 4771332ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 10:00:56,804  3802ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 10:02:15,280 82277ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 10:08:48,665 475663ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 10:12:12,701 679698ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 10:12:17,227 684225ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 10:13:48,212 775210ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 10:15:04,791 10176ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 10:15:48,888 54274ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 10:15:56,148 61533ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 10:23:58,093 543479ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 10:28:36,172 821557ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 10:30:11,808 917194ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 10:31:34,006 999392ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 10:32:54,434 1079819ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 10:33:44,636 1130021ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 10:36:18,461 1283847ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 10:36:34,898 1300284ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 10:38:13,547 1398933ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 10:38:19,122 1404508ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 10:42:03,068 1628454ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 10:44:42,037 18156ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 10:45:41,000 77118ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 10:46:52,120 148238ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 10:52:20,244 476363ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 10:54:55,408 631527ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 10:55:03,536 639654ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 10:55:35,321 671439ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 10:55:44,755 680873ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 10:55:46,591 682710ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 10:55:58,196 694314ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 10:56:22,273 718392ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 10:56:49,320 745438ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 10:57:09,385 765503ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 10:57:19,581 775699ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 10:57:46,499 802617ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 11:10:10,585 46240ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 11:11:07,146 102801ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 11:13:37,664 12298ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 11:13:51,596 26231ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 11:14:16,162 50796ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 11:21:01,455 456090ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 11:25:36,547 731181ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 11:26:02,886 757521ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 11:28:43,831 918466ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 11:29:12,802 947437ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 11:29:23,688 958322ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 11:35:08,079 1302714ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 11:37:45,727 1460362ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 11:37:47,399 1462034ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 11:37:57,588 1472223ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 11:38:09,576 1484210ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 11:42:30,403 1745037ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 11:42:30,928 1745562ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 11:42:34,328 1748963ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 11:42:34,837 1749472ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 11:46:28,243 1982878ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 11:46:33,231 1987865ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 11:47:00,225 2014860ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 11:47:17,009 2031644ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 11:49:01,087 2135722ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 11:49:44,954 2179589ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 11:50:52,340 2246975ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 11:51:37,124 2291759ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 11:51:38,156 2292791ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 11:51:39,065 2293700ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 11:53:22,948 2397583ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 11:54:21,054 2455689ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 11:56:19,926 2574561ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 11:59:18,600  9794ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 12:00:48,540 99734ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 12:02:16,657 187851ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 12:08:08,818 540011ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 12:09:34,132 625326ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 12:32:11,605 823149ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 13:08:40,684 120903ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 13:10:03,732 203951ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 13:13:49,827  8927ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 13:14:09,047 28147ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 13:14:13,840 32940ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 13:14:14,788 33888ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 13:14:18,564 37664ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 13:15:11,053 16342ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 13:15:18,300 23590ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 13:15:19,911 25201ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 13:15:51,154 56444ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 13:15:56,122 61412ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 13:17:15,280 24372ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 13:20:32,736 221828ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 13:22:34,546 343638ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 14:45:18,253 217116ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 14:46:08,675 267538ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 14:46:21,469 280332ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 14:47:00,553 11827ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 14:47:34,534 45808ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 14:47:46,279 57553ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 14:47:53,313 64587ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 15:00:01,291 12218ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 16:00:30,364 25795ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 16:02:14,356 26102ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 16:02:54,956 22202ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 16:08:35,561 27056ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 16:09:25,929 77424ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 16:09:51,467 11215ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 16:12:37,386 11954ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 16:12:56,077 30645ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 16:13:22,754 57322ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 16:14:18,055 26602ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 16:14:31,615 40162ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 16:15:00,433 68980ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 17:17:37,750 64169ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 17:17:54,426 80845ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 17:18:06,604 93023ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 17:18:21,511 107930ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 17:19:20,635 14527ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 17:19:37,784 31676ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 17:21:14,610 12124ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 17:21:24,850 22365ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 17:21:46,210 43725ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 17:22:01,758 59273ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 17:29:23,026 21852ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 17:29:55,287 54114ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 17:30:12,459 71286ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 17:35:31,454 289690ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 17:35:46,030 304267ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 17:38:23,045 461282ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 17:41:04,788 40369ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 17:41:19,221 54802ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 17:41:28,488 64069ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 17:41:36,936 72517ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 17:45:07,646 64197ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 17:45:22,324 78876ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 17:45:32,661 89213ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 17:46:45,256  8777ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 17:46:59,041 22562ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 17:47:11,051 34571ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 17:47:28,416 51936ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 17:49:54,013 24352ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 17:50:05,709 36048ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 17:50:18,578 48917ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 17:52:59,203 209541ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 17:53:38,601 248940ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 17:53:55,320 265659ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 17:54:47,405 317744ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 18:01:23,980 25785ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 18:01:37,340 39145ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 18:02:51,162 11193ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 18:03:07,464 27495ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 18:05:38,522 17761ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 18:05:54,111 33349ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 18:06:02,501 41740ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 18:06:10,063 49301ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 18:06:17,280 56519ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 18:06:24,949 64187ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 18:08:03,116 162355ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 18:08:29,603 188841ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 18:09:00,247 219485ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 18:09:26,797 246036ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 18:11:52,454 391693ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 18:11:54,586 393824ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 18:12:09,463 408702ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 18:12:49,612 448850ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 18:13:24,930 484168ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 18:15:51,355 19342ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 18:18:50,955 198942ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 18:20:26,081 24304ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 18:30:32,429 386785ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 19:32:57,461 198972ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-22 19:34:41,236 302747ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-06-22 19:34:41,460 302971ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-22 19:34:41,767 303278ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-22 19:34:42,263 303774ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-06-22 19:34:42,336 303847ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-06-22 19:40:24,478 645989ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 10:18:25,959 28315ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 10:18:45,019 47375ms FileLogger             writeFile          - [UI/]-Generando informe
+INFO  2015-06-29 10:20:50,235  8628ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 10:20:57,047 15440ms FileLogger             writeFile          - [UI/]-Generando informe
+INFO  2015-06-29 10:22:57,803 136196ms FileLogger             writeFile          - [UI/]-Generando informe
+INFO  2015-06-29 10:24:33,352  7615ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 10:24:39,948 14211ms FileLogger             writeFile          - [UI/]-Generando informe
+INFO  2015-06-29 10:25:05,826  7231ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 10:29:52,579 19504ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 10:30:02,572 29496ms FileLogger             writeFile          - [UI/]-Generando informe
+INFO  2015-06-29 10:33:12,454 219378ms FileLogger             writeFile          - [UI/]-Generando informe
+INFO  2015-06-29 10:38:28,536  8746ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 10:38:39,119 19330ms FileLogger             writeFile          - [UI/]-Generando informe
+INFO  2015-06-29 10:39:32,357  7322ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 10:39:37,290 12254ms FileLogger             writeFile          - [UI/]-Interfaz de creación
+INFO  2015-06-29 10:39:39,412 14376ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 10:39:40,640 15604ms FileLogger             writeFile          - [UI/]-Generando informe
+INFO  2015-06-29 10:46:57,107 452071ms FileLogger             writeFile          - [UI/]-Generando informe
+INFO  2015-06-29 10:51:56,840  8203ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 11:00:02,876 494239ms FileLogger             writeFile          - [UI/]-Generando informe
+INFO  2015-06-29 11:00:42,000  7254ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 11:00:51,994 17248ms FileLogger             writeFile          - [UI/]-Generando informe
+INFO  2015-06-29 11:01:26,286  7036ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 11:02:31,375  9224ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 11:02:39,622 17470ms FileLogger             writeFile          - [UI/]-Generando informe
+INFO  2015-06-29 11:04:21,339  7081ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 11:04:27,359 13100ms FileLogger             writeFile          - [UI/]-Generando informe
+INFO  2015-06-29 11:06:18,389  6954ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 11:09:38,181  8225ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 11:09:46,181 16225ms FileLogger             writeFile          - [UI/]-Generando informe
+INFO  2015-06-29 11:12:48,529 14087ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 11:12:57,445 23003ms FileLogger             writeFile          - [UI/]-Generando informe
+INFO  2015-06-29 11:51:09,100  8169ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 11:52:44,738  7235ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 11:55:18,820  8035ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 11:56:50,609  8035ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 11:59:02,436 139862ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 12:00:40,801  7525ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 12:06:11,237  7821ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 12:10:17,525  7388ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 12:13:33,291  7551ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 12:22:08,990  3777ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 12:23:35,437 18127ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 12:27:20,757  7187ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 12:28:42,603 10645ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 12:32:16,689  7834ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 13:12:52,074  7476ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 13:14:49,622  7130ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 13:15:52,829  7792ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 13:19:45,764  7713ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 13:22:02,150  7777ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 13:24:48,082  7379ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 13:27:34,769 21625ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 14:35:49,761 4116616ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 14:38:03,166 10565ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 14:58:45,065 102252ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 15:00:35,164 16167ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 15:01:26,773 10189ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 15:13:43,711 15385ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 15:47:07,610 39075ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 15:47:24,567 56032ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 15:48:11,629 19707ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 15:48:23,298 31375ms FileLogger             writeFile          - [UI/]-Generando informe
+INFO  2015-06-29 15:49:31,833 11969ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 15:49:40,135 20272ms FileLogger             writeFile          - [UI/]-Erro generando informe
+INFO  2015-06-29 15:49:40,187 20324ms FileLogger             writeFile          - [UI/]-Generando informe
+INFO  2015-06-29 15:50:09,468 49604ms FileLogger             writeFile          - [UI/]-Erro generando informe
+INFO  2015-06-29 15:50:09,520 49656ms FileLogger             writeFile          - [UI/]-Generando informe
+INFO  2015-06-29 16:01:09,359 13288ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 16:01:20,908 24837ms FileLogger             writeFile          - [UI/]-Erro generando informe
+INFO  2015-06-29 16:01:20,961 24890ms FileLogger             writeFile          - [UI/]-Generando informe
+INFO  2015-06-29 16:01:28,065 31994ms FileLogger             writeFile          - [UI/]-Erro generando informe
+INFO  2015-06-29 16:01:28,112 32041ms FileLogger             writeFile          - [UI/]-Generando informe
+INFO  2015-06-29 16:01:50,383 54312ms FileLogger             writeFile          - [UI/]-Erro generando informe
+INFO  2015-06-29 16:01:50,386 54315ms FileLogger             writeFile          - [UI/]-Generando informe
+INFO  2015-06-29 16:03:03,342 17862ms FileLogger             writeFile          - [UI/]-Generando informe
+INFO  2015-06-29 16:20:23,179 29975ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 16:20:29,964 36760ms FileLogger             writeFile          - [UI/]-Erro generando informe
+INFO  2015-06-29 16:20:30,017 36813ms FileLogger             writeFile          - [UI/]-Generando informe
+INFO  2015-06-29 16:20:49,772 56568ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 16:20:55,117 61913ms FileLogger             writeFile          - [UI/]-Erro generando informe
+INFO  2015-06-29 16:20:55,168 61964ms FileLogger             writeFile          - [UI/]-Generando informe
+INFO  2015-06-29 16:21:15,202 81998ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 16:21:23,328 90124ms FileLogger             writeFile          - [UI/]-Erro generando informe
+INFO  2015-06-29 16:21:23,377 90173ms FileLogger             writeFile          - [UI/]-Generando informe
+INFO  2015-06-29 16:21:57,138 123934ms FileLogger             writeFile          - [UI/]-Erro generando informe
+INFO  2015-06-29 16:21:57,144 123940ms FileLogger             writeFile          - [UI/]-Generando informe
+INFO  2015-06-29 17:32:27,227  9704ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 17:39:43,509 14366ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 17:40:08,431 39289ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 17:40:20,314 51171ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 17:40:32,029 62887ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 17:52:15,923 14748ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 17:52:48,636 47461ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 17:53:06,660 65485ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 17:53:37,898  9869ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 17:53:51,450 23421ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 17:54:06,232 38203ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 17:54:47,130  9008ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 17:56:10,067  9459ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 17:56:23,395 22787ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 17:56:31,434 30826ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 17:56:39,834 39226ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-06-29 18:06:34,965 17891ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-07-01 14:48:43,278 4556561ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-07-01 14:49:00,025 4573308ms FileLogger             writeFile          - [UI/]-Visualizando objeto
+INFO  2015-07-01 14:49:00,931 4574214ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-07-01 14:49:01,868 4575151ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-07-01 14:49:02,334 4575617ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-07-01 14:49:02,777 4576060ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-07-01 14:49:05,586 4578869ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-07-01 14:49:13,850 4587133ms FileLogger             writeFile          - [UI/]-Visualizando objeto
+INFO  2015-07-01 14:49:14,425 4587708ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-07-01 14:49:14,873 4588156ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-07-01 14:49:15,156 4588439ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-07-01 14:49:15,597 4588880ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-07-01 14:49:22,947 4596230ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-07-01 14:49:27,150 4600433ms FileLogger             writeFile          - [UI/]-Visualizando objeto
+INFO  2015-07-01 14:49:27,270 4600553ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-07-01 14:49:27,434 4600717ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-07-01 14:49:27,565 4600848ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-07-01 14:49:30,368 4603651ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-07-01 14:49:32,527 4605810ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-07-01 14:49:35,740 4609023ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-07-01 14:49:35,873 4609156ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-07-01 14:49:36,581 4609864ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-07-01 14:49:36,735 4610018ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-07-01 14:49:39,758 4613041ms FileLogger             writeFile          - [UI/]-Borrar objeto en pop up de la entidad principal
+INFO  2015-07-01 14:49:39,897 4613180ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-07-01 14:49:41,325 4614608ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-07-01 14:49:41,456 4614739ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-07-01 14:49:45,998 4619281ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-07-01 14:49:49,438 4622721ms FileLogger             writeFile          - [UI/]-Interfaz de creación
+INFO  2015-07-01 14:55:30,936 4964219ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-07-01 14:55:36,160 4969443ms FileLogger             writeFile          - [UI/]-Interfaz de creación
+INFO  2015-07-01 14:57:01,962 5055245ms FileLogger             writeFile          - [UI/]-Interfaz de creación
+INFO  2015-07-01 14:57:02,217 5055500ms FileLogger             writeFile          - [UI/]-Interfaz de creación
+INFO  2015-07-06 08:39:19,755 100334ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-07-06 09:11:37,274 2037853ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-07-06 09:54:49,532 4630111ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-07-06 09:55:13,516 4654095ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-07-06 09:55:15,309 4655888ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-07-06 09:55:16,805 4657384ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-07-06 09:55:17,304 4657883ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-07-06 09:55:18,325 4658904ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-07-06 09:56:01,943 4702522ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-07-06 09:58:21,176 4841755ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-07-06 09:58:22,410 4842990ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-07-06 09:58:23,826 4844406ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-07-06 09:58:24,239 4844819ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-07-06 09:58:25,954 4846533ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-07-06 09:58:43,302 4863881ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-07-06 09:58:50,550 4871129ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-07-06 09:59:05,701 4886280ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-07-06 09:59:08,225 4888804ms FileLogger             writeFile          - [UI/]-Visualizando objeto
+INFO  2015-07-06 09:59:09,490 4890069ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-07-06 09:59:12,682 4893261ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-07-06 09:59:12,927 4893506ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-07-06 09:59:14,420 4894999ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-07-06 10:14:56,517 5837096ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-07-06 10:14:59,834 5840414ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-07-06 10:20:13,887 6154467ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-07-06 10:20:19,471 6160050ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-07-06 10:21:45,022 6245601ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-07-06 10:21:59,593 6260173ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-07-06 10:22:24,223 6284802ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-07-06 10:22:37,870 6298449ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-07-06 10:23:08,172 6328751ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-07-06 10:23:20,237 6340816ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-07-06 11:29:42,392 2266982ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-07-06 11:30:10,776 2295366ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-07-06 11:31:37,801 2382391ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-07-06 11:36:40,436 2685026ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-07-06 11:38:27,826 2792416ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-07-06 11:38:54,394 2818984ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-07-06 11:41:03,337 2947927ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-07-06 11:42:01,879 3006469ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-07-06 11:42:02,640 3007231ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-07-06 11:42:04,008 3008598ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-07-06 11:42:04,532 3009122ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-07-06 11:42:05,263 3009853ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-07-06 11:42:41,531 3046121ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-07-06 11:42:42,059 3046649ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-07-06 11:42:42,104 3046694ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-07-06 11:42:42,420 3047010ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-07-06 11:42:43,143 3047733ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-07-06 11:42:43,384 3047974ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-07-06 11:42:44,359 3048949ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-07-06 11:42:50,394 3054984ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-07-06 11:42:51,107 3055697ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-07-06 11:42:51,465 3056055ms FileLogger             writeFile          - [UI/]-Interfaz de edición
+INFO  2015-07-06 11:42:51,989 3056579ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-07-06 11:42:52,935 3057525ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-07-06 11:42:53,024 3057614ms FileLogger             writeFile          - [UI/]-Cargando datos seleccionados en popup
+INFO  2015-07-06 11:42:53,497 3058087ms FileLogger             writeFile          - [Server/UsuarioService]-Usuario encontrado
+INFO  2015-07-06 11:42:59,890 3064480ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-07-06 11:49:31,754  2456ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-07-06 11:49:53,221 23923ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-07-06 11:50:05,637 36339ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-07-06 11:51:15,561 106263ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-07-06 11:51:37,387 128089ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-07-06 11:52:15,380 166081ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-07-06 11:52:57,372 208073ms FileLogger             writeFile          - [UI/]-Cargando listado de datos
+INFO  2015-07-06 12:17:34,248 33466ms FileLogger             writeFile          - [UI/]-Cargando listado de datos

@@ -1,0 +1,39 @@
+﻿@model IndexUsuarioViewModel
+@{
+    ViewBag.Title = "Filter";
+}
+
+<section class="grid-view-search" style="margin:17px;">
+     <legend>@Resources.Shared.Filtro</legend>
+     @using (Html.BeginForm("Filter", "Usuario", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+     {   
+      <div class="row">
+          <div class="form-field-group">
+               @Html.LabelFor(model => model.Filter.Usuario, new { @class="control-label col-sm-1 col-lg-1"})
+                <div class="editor col-sm-3 col-lg-3">
+                 @Html.EditorFor(model => model.Filter.Usuario )
+                 @Html.ValidationMessageFor(model => model.Filter.Usuario )
+                </div>
+            </div>
+          <div class="form-field-group">
+              @Html.LabelFor(model => model.Filter.Activo, new { @class = "control-label col-sm-1 col-lg-1" })
+              <div class="editor col-sm-3 col-lg-3">
+                  @Html.EditorFor(model => model.Filter.Activo)
+                  @Html.ValidationMessageFor(model => model.Filter.Activo)
+              </div>
+          </div>
+        </div>
+     
+        <div >           
+            <div class="btn-group" style="float:right">
+               
+                <button type="submit" class="btn btn-default btn-sm btn-default " title="@(Resources.Shared.DoSearch)"><span class="glyphicon glyphicon-search"></span></button>
+                <button type="submit" class="btn btn-default btn-sm " title="@(Resources.Shared.Clean)"><span class="glyphicon glyphicon-remove"></span></button>
+            </div>
+        </div>
+     }
+
+</section>
+
+
+

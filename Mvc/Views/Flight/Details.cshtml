@@ -1,0 +1,109 @@
+﻿@model DetailsFlightViewModel
+@{
+    ViewBag.Title = Resources.Shared.AppName + " - " + string.Format(Resources.Shared.DetailsViewTitle, Model.Description);
+}
+<h2>@string.Format(Resources.Shared.DetailsViewTitle, Model.Description)</h2>
+
+<div class="row">
+    <div class="col-xs-12 form-commands-container">
+        <button class="btn btn-default btn-sm back-button" title="@Resources.Shared.Back"><span class="glyphicon glyphicon-arrow-left"></span>@Resources.Shared.Back</button>
+    </div>
+</div>
+
+<fieldset class="form-horizontal">
+    <legend>@Resources.FlightResource.Flight</legend>
+    <div class="row">
+        <div class="form-field-group">
+            @Html.LabelFor(model => model.Airline, new { @class = "control-label col-sm-3 col-lg-4" })
+            <div class="editor col-sm-7 col-lg-8">
+                <p class="form-control-static">@Model.Airline</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="form-field-group">
+            @Html.LabelFor(model => model.SourceAirportID, new { @class = "control-label col-sm-3 col-lg-4" })
+            <div class="editor col-sm-7 col-lg-8">
+                <p class="form-control-static">@Model.SourceAirportID</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="form-field-group">
+            @Html.LabelFor(model => model.SourceAirportName, new { @class = "control-label col-sm-3 col-lg-4" })
+            <div class="editor col-sm-7 col-lg-8">
+                <p class="form-control-static">@Model.SourceAirportName</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="form-field-group">
+            @Html.LabelFor(model => model.DestinationAirportID, new { @class = "control-label col-sm-3 col-lg-4" })
+            <div class="editor col-sm-7 col-lg-8">
+                <p class="form-control-static">@Model.DestinationAirportID</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="form-field-group">
+            @Html.LabelFor(model => model.DestinationAirportName, new { @class = "control-label col-sm-3 col-lg-4" })
+            <div class="editor col-sm-7 col-lg-8">
+                <p class="form-control-static">@Model.DestinationAirportName</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="form-field-group">
+            @Html.LabelFor(model => model.FuelNeeded, new { @class = "control-label col-sm-3 col-lg-4" })
+            <div class="editor col-sm-7 col-lg-8">
+                <p class="form-control-static">@Html.DisplayFor(model => model.FuelNeeded) (L)</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="form-field-group">
+            @Html.LabelFor(model => model.Stops, new { @class = "control-label col-sm-3 col-lg-4" })
+            <div class="editor col-sm-7 col-lg-8">
+                <p class="form-control-static">@Model.Stops</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="form-field-group">
+            @Html.LabelFor(model => model.Distance, new { @class = "control-label col-sm-3 col-lg-4" })
+            <div class="editor col-sm-7 col-lg-8">
+                <p class="form-control-static">@Html.DisplayFor(model => model.Distance) (KM)</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="form-field-group">
+            @Html.LabelFor(model => model.Active, new { @class = "control-label col-sm-3 col-lg-4" })
+            <div class="editor col-sm-7 col-lg-8">
+                <p class="form-control-static">@(Model.Active ? "Yes" : "No")</p>
+            </div>
+        </div>
+    </div>
+
+</fieldset>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    <script type="text/javascript">
+        $(function () {
+            formUtils.setupFormActionButtons({
+                formId: "UsuarioForm",
+                indexPageUrl: "@Url.Action("Index")",
+                buttonsContainerSelector: ".form-commands-container"
+            });
+        });
+    </script>
+}

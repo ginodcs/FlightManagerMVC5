@@ -1,0 +1,243 @@
+﻿@model IndexFlightViewModel
+@{
+    ViewBag.Title = Resources.Shared.AppName + " - " + string.Format(Resources.Shared.IndexViewTitle, "Flight");
+}
+
+<h2>@string.Format(Resources.Shared.IndexViewTitle, Resources.FlightResource.Flight)</h2>
+
+<div class="row">
+    <section style="margin:17px;  text-align: left;;">
+        <legend>@Resources.Shared.Filtro</legend>
+        @using (Html.BeginForm("Filter", "Flight", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+        {
+            <div class="row">
+                <div class="form-field-group">
+                    @Html.LabelFor(model => model.Filter.Flight, new { @class = "control-label col-sm-1 col-lg-1" })
+                    <div class="editor col-sm-3 col-lg-3">
+                        @Html.EditorFor(model => model.Filter.Flight)
+                        @Html.ValidationMessageFor(model => model.Filter.Flight)
+                    </div>
+                </div>
+            </div>
+
+
+            <div>
+                <div class="btn-group" style="float:right">
+
+                    <button type="submit" id="search-filter" class="btn btn-default btn-sm btn-default " title="@(Resources.Shared.DoSearch)"><span class="glyphicon glyphicon-search"></span></button>
+                    <button type="submit" id="clean-filter" class="btn btn-default btn-sm  " title="@(Resources.Shared.Clean)"><span class="glyphicon glyphicon-remove"></span></button>
+                </div>
+            </div>
+        }
+
+    </section>
+</div>
+
+<div class="row">
+    <div class="grid-commands-container grid-top-buttons col-xs-5">
+    </div>
+</div>
+<table id="FlightGrid" class="table table-striped table-bordered" width="100%"></table>
+<div class="grid-commands-container grid-bottom-buttons ">
+    @ToolbarButtons()
+</div>
+
+@helper ToolbarButtons()
+{
+    <button class="btn btn-default btn-sm create-button search-box" title="@Resources.Shared.Create"><span class="glyphicon glyphicon-plus-sign"></span>@Resources.Shared.Create</button>
+}
+
+@section scripts
+{
+    <script type="text/javascript">
+
+        var oTable;
+        var url = "@Url.Action("Load")";
+        $(function () {
+
+            var gridId = "FlightGrid";
+
+            gridUtils.setupGridToolbarButtons({
+                gridId: gridId,
+                toolbarContainerSelector: ".grid-bottom-buttons, .grid-top-buttons",
+                addUrl: "@Url.Action("Create")",
+                reportUrl: "@Url.Action("Report")"
+            });
+            gridUtils.setupGridSearchBox({
+                gridId: gridId,
+                searchContainerSelector: ".grid-view-search"
+            });
+            gridUtils.setupGridRowButtons({ gridId: gridId });
+
+            $("#search-filter").click(function () {
+                //Save the filter values to read before
+                var flight = $("#Filter_Flight").val();
+                window.sessionStorage.setItem("FlightFiltro", flight);
+            })
+
+            if ('@ViewBag.Filtro' === 'True') {
+                cargarDatos(gridId, url);
+            }
+
+            $.fn.dataTable.ext.errMode = 'throw';
+
+            oTable = $("#" + gridId).dataTable({
+                "aoColumns": [
+                    { mData: "Id", sName: "Id", bVisible: false, bSortable: false },
+                    {
+                        sClass: "row-options",
+                        bSortable: false,
+                        mData: null,
+                        sWidth: "5%",
+                        mRender: function (data, type, datasource) {
+                            var rowId = datasource.Id;
+                            var editHtml = '<a href="@Url.Action("Edit")?id=' + rowId + '" class="row-edit btn btn-md" title="@Resources.Shared.Edit"><span class="glyphicon glyphicon-pencil" /></a>';
+                            var detailsHtml = '<a href="@Url.Action("Details")?id=' + rowId + '" class="row-details btn btn-md" title="@Resources.Shared.Details"><span class="glyphicon glyphicon-eye-open" /></a>';
+                            var deleteHtml = '<a href="@Url.Action("Delete")?id=' + rowId + '" class="row-delete btn btn-md" title="@Resources.Shared.Delete"><span class="glyphicon glyphicon-remove" /></a>';
+                            return editHtml + detailsHtml + deleteHtml;
+                        }
+                    },
+
+                        { mData: "Airline", sWidth: "20%", sName: "Airline", sTitle: "@Resources.FlightResource.Airline" },
+                        { mData: "SourceAirportID", sWidth: "5%", sName: "SourceAirportID", sTitle: "@Resources.FlightResource.SourceAirportID" },
+                        { mData: "SourceAirportName", sWidth: "30%", sName: "SourceAirportName", sTitle: "@Resources.FlightResource.SourceAirportName" },
+                        { mData: "DestinationAirportID", sWidth: "5%", sName: "DestinationAirportID", sTitle: "@Resources.FlightResource.DestinationAirportID" },
+                        { mData: "DestinationAirportName", sWidth: "30%", sName: "DestinationAirportName", sTitle: "@Resources.FlightResource.DestinationAirportName" },
+                        @*{ mData: "FuelNeeded", sName: "FuelNeeded", sTitle: "@Resources.FlightResource.FuelNeeded" },
+                        { mData: "Stops", sName: "Stops", sTitle: "@Resources.FlightResource.Stops" },
+                        { mData: "Distance", sName: "Distance", sTitle: "@Resources.FlightResource.Distance" },*@
+                        { mData: "Active", sName: "Active", sTitle: "@Resources.FlightResource.Active", mRender: function (data, type, datasource) { return "<span class='boolean-" + data + "' />"; } },
+
+                ],
+               
+                "aaSorting": [[2, "asc"]],
+                "sPaginationType": "full_numbers",
+                "oLanguage": datatables_locale,
+                "bProcessing": true,
+                "bFilter": true,
+                "bServerSide": true,
+                "sAjaxSource": url,
+                "sServerMethod": "POST",
+                "sDom": 'rtip<"pull-left"l>',
+                "bStateSave": true,
+                "sCookiePrefix": "radarc",
+                "fnCookieCallback": function (sName, oData, sExpires, sPath) {
+                    return sName + "=" + JSON.stringify(oData) + ";path=" + sPath;
+                },
+                "fnServerData": function (sSource, aoData, fnCallback) {
+                    $.ajax({
+                        "dataType": 'json',
+                        "type": "POST",
+                        "url": url,
+                        "data": aoData,
+                        "success": fnCallback,
+                        "error": function (jqXHR, textStatus, errorThrown) {
+                            InformarError(jqXHR, textStatus, errorThrown);
+                        }
+                    });
+                },
+                "fnStateLoaded": function (oSettings) {
+                    var search = oSettings.oPreviousSearch;
+                    if (search) {
+                        $("input.search-box").val(search.sSearch);
+
+                        var nombre = window.sessionStorage.getItem("FlightFiltro");
+                        $("#Filter_Flight").val(nombre);
+
+                        RemoveStorage();
+                    }
+                }
+            });
+
+        });
+
+        function RemoveStorage() {
+            window.sessionStorage.removeItem("FlightFiltro");
+        }
+
+        function InformarError(jqXHR, textStatus, errorThrown) {
+            @if (Request.IsAuthenticated)
+            {
+                // Unauthorized error
+            <text>
+            window.location.href = "@Url.Action("Unauthorized", "ErrorPage")";
+            </text>
+            }
+            else {
+                // Internal server error (500), NotFound
+            <text>
+            window.location.href = "@Url.Action("Error", "ErrorPage")";
+            </text>
+            }
+        }
+
+        function cargarDatos(gridId, url) {
+            alert('Testing');
+            oTable = $("#" + gridId).dataTable({
+                "aoColumns": [
+                    { mData: "Id", sName: "Id", bVisible: false, bSortable: false },
+                    {
+                        sClass: "row-options",
+                        bSortable: false,
+                        mData: null,
+                        mRender: function (data, type, datasource) {
+                            var rowId = datasource.Id;
+                            var editHtml = '<a href="@Url.Action("Edit")?id=' + rowId + '" class="row-edit btn btn-md" title="@Resources.Shared.Edit"><span class="glyphicon glyphicon-pencil" /></a>';
+                            var detailsHtml = '<a href="@Url.Action("Details")?id=' + rowId + '" class="row-details btn btn-md" title="@Resources.Shared.Details"><span class="glyphicon glyphicon-eye-open" /></a>';
+                            var deleteHtml = '<a href="@Url.Action("Delete")?id=' + rowId + '" class="row-delete btn btn-md" title="@Resources.Shared.Delete"><span class="glyphicon glyphicon-remove" /></a>';
+                            return editHtml + detailsHtml + deleteHtml;
+                        }
+                    },
+
+                        { mData: "Airline", sName: "Airline", sTitle: "@Resources.FlightResource.Airline" },
+                        { mData: "SourceAirportID", sName: "SourceAirportID", sTitle: "@Resources.FlightResource.SourceAirportID" },
+                        { mData: "SourceAirportName", sName: "SourceAirportName", sTitle: "@Resources.FlightResource.SourceAirportName" },
+                        { mData: "DestinationAirportID", sName: "DestinationAirportID", sTitle: "@Resources.FlightResource.DestinationAirportID" },
+                        { mData: "DestinationAirportName", sName: "DestinationAirportName", sTitle: "@Resources.FlightResource.DestinationAirportName" },
+                        { mData: "FuelNeeded", sName: "FuelNeeded", sTitle: "@Resources.FlightResource.FuelNeeded" },
+                        { mData: "Stops", sName: "Stops", sTitle: "@Resources.FlightResource.Stops" },
+                        { mData: "Distance", sName: "Distance", sTitle: "@Resources.FlightResource.Distance" },
+                        { mData: "Active", sName: "Active", sTitle: "@Resources.FlightResource.Active", mRender: function (data, type, datasource) { return "<span class='boolean-" + data + "' />"; } },
+
+                ],
+                "aaSorting": [[2, "asc"]],
+                "sPaginationType": "full_numbers",
+                "oLanguage": datatables_locale,
+                "bRetrieve": true,
+                "bProcessing": true,
+                "bFilter": true,
+                "bServerSide": true,
+                "sAjaxSource": url,
+                "sServerMethod": "POST",
+                "sDom": 'rtip<"pull-left"l>',
+                "bStateSave": true,
+                "sCookiePrefix": "radarc",
+                "fnCookieCallback": function (sName, oData, sExpires, sPath) {
+                    return sName + "=" + JSON.stringify(oData) + ";path=" + sPath;
+                },
+                "fnServerData": function (sSource, aoData, fnCallback) {
+                    $.ajax({
+                        "dataType": 'json',
+                        "type": "POST",
+                        "url": url,
+                        "data": aoData,
+                        "success": fnCallback
+                    });
+                },
+                "fnStateLoaded": function (oSettings) {
+                    var search = oSettings.oPreviousSearch;
+                    if (search) {
+                        $("input.search-box").val(search.sSearch);
+
+                    }
+                },
+                "fnInitComplete": function (oSettings) {
+                }
+
+            });
+        }
+
+    </script>
+}
+
+

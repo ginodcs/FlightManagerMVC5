@@ -1,0 +1,12 @@
+﻿@{
+    ViewBag.Title = Resources.Index.Title;
+}
+<h2>@string.Format(Resources.Index.WelcomeTo, Resources.Shared.AppName)</h2>
+
+<p>@Resources.Index.YouCanNavigateTo:</p>
+<ul>
+
+    @Html.Partial("_Menu") 
+
+  
+</ul>
