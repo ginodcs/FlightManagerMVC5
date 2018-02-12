@@ -37,7 +37,7 @@ CREATE TABLE [dbo].[Flight](
 GO
 ```
 
- - Una vez creada la tabla, nos aseguramos de que la `connectionStrings` del `web.config` del proyecto **ApiServices** esta bien configurada.
+ - Una vez creada la tabla, nos aseguramos de que la `connectionStrings` del `web.config` del proyecto **ApiServices** esta bien configurada y que el usuario que ejecuta la aplicación tenga acceso a la base de datos.
  
  - Desde Visual Studio nos vamos al proyecto **Presentation.Mvc**, lo marcamos como proyecto de inicio y ejecutamos la aplicación (F5).
 
