@@ -12,15 +12,7 @@ namespace ARQ.Maqueta.Presentation.Mvc.Controllers
     {
         public ActionResult Index()
         {
-            if (User.Identity.IsAuthenticated)
-            {
-                return View();
-            }
-            else
-            {
-                return RedirectToAction("Login", "Account");
-                            
-            }
+                return View();            
         }
 
         public ActionResult Error()
